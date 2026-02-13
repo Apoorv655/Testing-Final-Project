@@ -1,0 +1,9 @@
+2026-02-14 01:32:00 INFO  [hooks.ScenarioHook] Launching Chrome Browser
+2026-02-14 01:32:05 INFO  [stepdefinition.BookingTest] Opening Airbnb website
+2026-02-14 01:32:10 INFO  [stepdefinition.BookingTest] Searching Destinations
+2026-02-14 01:32:20 INFO  [stepdefinition.BookingTest] Typed destination: Goa
+2026-02-14 01:32:27 INFO  [stepdefinition.BookingTest] Selected Checkin dates
+2026-02-14 01:32:33 INFO  [stepdefinition.BookingTest] Selected Checkout dates
+2026-02-14 01:32:40 INFO  [stepdefinition.BookingTest] Clicked on Searched Button
+2026-02-14 01:32:44 INFO  [hooks.ScenarioHook] Scenario PASSED: Validate booking price filter works
+2026-02-14 01:32:44 INFO  [hooks.ScenarioHook] Closing browser...
